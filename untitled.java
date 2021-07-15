@@ -8,3 +8,6 @@ public static boolean esPrimo(int numero){
     }
     return primo
 }
+
+
+
